@@ -1,0 +1,19 @@
+{
+  "name": "react-calculator-project",
+  "version": "1.0.0",
+  "description": "creating a simple calculator in React that handles input changes, user interaction, and complex calculations.\r This is the perfect project focuses on some of the most important React concepts, such as re-renders, state management, and breaking down your code into components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uzma000/React-calculator-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uzma000/React-calculator-project/issues"
+  },
+  "homepage": "https://github.com/uzma000/React-calculator-project#readme"
+}
